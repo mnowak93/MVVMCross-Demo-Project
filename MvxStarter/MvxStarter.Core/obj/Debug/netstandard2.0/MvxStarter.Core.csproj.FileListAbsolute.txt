@@ -1,0 +1,9 @@
+D:\c#\MVVMCross Demo\MvxStarter\MvxStarter.Core\bin\Debug\netstandard2.0\MvxStarter.Core.deps.json
+D:\c#\MVVMCross Demo\MvxStarter\MvxStarter.Core\bin\Debug\netstandard2.0\MvxStarter.Core.dll
+D:\c#\MVVMCross Demo\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.csprojAssemblyReference.cache
+D:\c#\MVVMCross Demo\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.AssemblyInfoInputs.cache
+D:\c#\MVVMCross Demo\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.AssemblyInfo.cs
+D:\c#\MVVMCross Demo\MvxStarter\MvxStarter.Core\bin\Debug\netstandard2.0\MvxStarter.Core.pdb
+D:\c#\MVVMCross Demo\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.csproj.CoreCompileInputs.cache
+D:\c#\MVVMCross Demo\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.dll
+D:\c#\MVVMCross Demo\MvxStarter\MvxStarter.Core\obj\Debug\netstandard2.0\MvxStarter.Core.pdb

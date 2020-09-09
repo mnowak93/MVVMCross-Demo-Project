@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cMmlrLRq1CfptxWr8EEI5eyL54BQ+w62UCYkSrnVIxsjLmB1lxNxGS/HcTSqKczr8Hrds/LOMBoAP9p2bhpEyQ==",
+  "success": true,
+  "projectFilePath": "D:\\c#\\MVVMCross Demo\\MvxStarter\\MvxStarter.Wpf\\MvxStarter.Wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mateusz\\.nuget\\packages\\mvvmcross\\7.0.0\\mvvmcross.7.0.0.nupkg.sha512",
+    "C:\\Users\\Mateusz\\.nuget\\packages\\mvvmcross.platforms.wpf\\7.0.0\\mvvmcross.platforms.wpf.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
